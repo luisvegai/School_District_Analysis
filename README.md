@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 
-#How is the district summary affected?
+# How is the district summary affected?
 
 When considering Thomas High School, 9th grade scores for math and reading:
 The Average Math Score was 79.0 and the Average Reading Score was 81.9
@@ -10,7 +10,7 @@ After replacing Thomas High School, 9th grade scores for math and reading with N
 The Average Math score reduced to 78.9, and the Average Reading Score 
 remained 81.9. The % of students passing Math and Reading reduced to 74% and 85% respectively. The % of Overall Passing reduced to 64%.
 
-#How is the school summary affected?
+# How is the school summary affected?
 
 - When considering Thomas High School, 9th grade scores for math and reading:
   - Average Math Score    83.418349
