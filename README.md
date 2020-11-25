@@ -1,6 +1,6 @@
 # School District Analysis
 
-Background
+# Background
 
 The grades of the ninth graders at Thomas High School have been changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing and correct the error. For this I was tasked to:
 
@@ -8,8 +8,9 @@ The grades of the ninth graders at Thomas High School have been changed. While a
 - Keep all other data associated with the ninth-grade students and Thomas High School intact.
 - Explain how the analysis changes after the incorrect data has been handled by answering specific questions as follows:
 
+# Results
 
-# How is the district summary affected?
+## How is the district summary affected?
 
 When considering Thomas High School, 9th grade scores for math and reading:
 The Average Math Score was 79.0 and the Average Reading Score was 81.9
@@ -18,7 +19,7 @@ After replacing Thomas High School, 9th grade scores for math and reading with N
 The Average Math score reduced to 78.9, and the Average Reading Score 
 remained 81.9. The % of students passing Math and Reading reduced to 74% and 85% respectively. The % of Overall Passing reduced to 64%.
 
-# How is the school summary affected?
+## How is the school summary affected?
 
 - When considering Thomas High School, 9th grade scores for math and reading:
   - Average Math Score    83.418349
@@ -34,11 +35,11 @@ remained 81.9. The % of students passing Math and Reading reduced to 74% and 85%
   - % Passing Reading 	69.7
   - % Overall Passing	65.076453 
 
-# How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 
   The Performance of the school reduced considerably, the overall passing percentage reduced to 65.1% (no longer the second top school).
 
-# How does replacing the ninth-grade scores affect the following?
+## How does replacing the ninth-grade scores affect the following?
 
 - Math and Reading Scores by Grade: 
   Thomas High School now shows NaN in the 9th grade math and reading scores.
