@@ -1,4 +1,12 @@
-# School_District_Analysis
+# School District Analysis
+
+Background
+
+The grades of the ninth graders at Thomas High School have been changed. While administrators do not know the full extent of this academic dishonesty, they want to uphold the standards of state testing and correct the error. For this I was tasked to:
+
+- Replace the ninth-grade math and reading scores from Thomas High School.
+- Keep all other data associated with the ninth-grade students and Thomas High School intact.
+- Explain how the analysis changes after the incorrect data has been handled by answering specific questions as follows:
 
 
 # How is the district summary affected?
